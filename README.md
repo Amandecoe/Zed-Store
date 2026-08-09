@@ -1,4 +1,4 @@
-# Freelance Time Tracker
+# Sales
 # Starting soon
 # Documentation being prepared
 
