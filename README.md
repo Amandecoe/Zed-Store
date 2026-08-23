@@ -1,2 +1,1 @@
 A full-stack sales and inventory management system built with Django, HTML, CSS, and JavaScript, designed to simplify daily business operations through intuitive sales recording, product management, stock tracking, expense management, and sales history.
-
